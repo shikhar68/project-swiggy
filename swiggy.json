@@ -1,0 +1,12 @@
+{
+  "restaurants": [
+    {
+      "name": "mcD",
+      "dishes": ["burger", "pizza", "sandwhich"]
+    },
+    {
+      "name": "Star Bucks",
+      "dishes": ["cold coffee", "Hot coffee", "shakes"]
+    }
+  ]
+}
